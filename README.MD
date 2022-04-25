@@ -2,7 +2,7 @@
 
 # Portfolio Project
 
-![Screenshot](projects-about-section.png)
+![Screenshot](tribute-page.png)
 
 > This is a copy of a project I paired with a partner to build on Trials. Its is a simple tribute website.
 
